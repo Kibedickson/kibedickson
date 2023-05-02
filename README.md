@@ -7,7 +7,7 @@ Web Developer
 Dickson Kibe is a Kenyan based web developer proficient in various web technologies mainly Laravel, Vuejs, ReactJs.
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [MyPortfolio](http://www.kibedickson.com/)
+* 🖥️  See my portfolio at [MyPortfolio](https://kibedickson.co.ke)
 * ✉️  You can contact me at [kibedickson3@gmail.com](mailto:kibedickson3@gmail.com)
 * 🧠  I'm learning ReactJs
 * 🤝  I'm open to collaborating on any Laravel, Vuejs or ReactJs Project.
